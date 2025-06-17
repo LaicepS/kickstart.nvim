@@ -169,6 +169,7 @@ vim.o.confirm = true
 vim.o.cursorline = true
 vim.o.cursorcolumn = true
 
+vim.o.autoread = true
 -- [[ Basic Keymaps ]]
 --  See `:help vim.keymap.set()`
 
